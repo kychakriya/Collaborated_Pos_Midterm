@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Collaborated_Pos_System
+{
+    internal class Supplier
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}

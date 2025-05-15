@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\addstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\addstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\saledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|d:\\setec\\year2 sv25\\semester 1\\c#\\collaborated_pos_system\\collaborated_pos_system\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01494-53F9-4231-AA6A-18C706C5DF61}|Collaborated_Pos_System\\Collaborated_Pos_System.csproj|solutionrelative:collaborated_pos_system\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Product.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\Product.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Product.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:38:39.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Role.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\Role.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Role.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:38:21.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStock.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\AddStock.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\AddStock.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\AddStock.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\AddStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:38:10.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\User.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\User.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\User.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:37:57.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Category.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\Category.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Category.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:36:58.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SaleDetail.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\SaleDetail.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\SaleDetail.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\SaleDetail.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\SaleDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:36:46.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Sale.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\Sale.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Sale.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:36:33.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Supplier.cs",
+              "RelativeDocumentMoniker": "Collaborated_Pos_System\\Supplier.cs",
+              "ToolTip": "D:\\Setec\\Year2 SV25\\Semester 1\\C#\\Collaborated_Pos_System\\Collaborated_Pos_System\\Supplier.cs",
+              "RelativeToolTip": "Collaborated_Pos_System\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T02:35:59.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
