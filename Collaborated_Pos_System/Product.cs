@@ -8,5 +8,6 @@ namespace Collaborated_Pos_System
 {
     internal class Product
     {
+        public int Id { get; set; }
     }
 }
